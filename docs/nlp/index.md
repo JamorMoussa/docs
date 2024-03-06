@@ -1,3 +1,1 @@
 # Natural Language Processing
-
-## Hello
