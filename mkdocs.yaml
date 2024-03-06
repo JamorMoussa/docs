@@ -1,0 +1,52 @@
+site_name: Zero to Mastery Learn Machine Learning and Deep Learning Concepts
+site_url: 
+site_description: Learn important machine learning concepts hands-on by writing PyTorch code.
+
+repo_url: https://github.com/JamorMoussa/ML-DL-Concepts
+repo_name: JamorMoussa/ML-DL-Concepts
+
+theme:
+  name: material
+  # logo: assets/ztm-logo-and-pytorch-logo.png
+  # favicon: assets/ztm-logo-and-pytorch-logo.png
+  features:
+    - navigation.instant
+    - navigation.top
+    - navigation.tabs
+  palette:
+    primary: black
+
+markdown_extensions:
+  - meta
+  - pymdownx.highlight
+  - pymdownx.superfences
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  
+plugins:
+ - mkdocs-jupyter:
+    include_source: True
+ - search
+ - social
+
+edit_uri: ""
+
+nav:
+  - Home: 'index.md'
+  - Machine Learning:
+    - Home: 'machine_learning/index.md'
+  - Deep Learning:
+    - Home: 'deep_learning/index.md'
+  - Natural Language Processing:
+    - Home: 'nlp/index.md'
+  - Computer Vision:
+    - Home: 'computer_vision/index.md'
+
+# extra:
+#   social:
+#     - icon: fontawesome/brands/twitter
+#       link: https://twitter.com/mrdbourke
+#     - icon: fontawesome/brands/github
+#       link: https://github.com/mrdbourke/pytorch-deep-learning
+#     - icon: fontawesome/brands/youtube
+#       link: https://www.youtube.com/channel/UCr8O8l5cCX85Oem1d18EezQ
