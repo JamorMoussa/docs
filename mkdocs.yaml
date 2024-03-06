@@ -41,6 +41,8 @@ nav:
     - Home: 'nlp/index.md'
   - Computer Vision:
     - Home: 'computer_vision/index.md'
+  - Data Engineering: 
+    - Home: 'data_engineering/index.md'
 
 # extra:
 #   social:
