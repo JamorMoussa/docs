@@ -43,6 +43,8 @@ nav:
     - Home: 'computer_vision/index.md'
   - Data Engineering: 
     - Home: 'data_engineering/index.md'
+  - Papers: 
+    - Home: 'papers/index.md'
 
 # extra:
 #   social:
