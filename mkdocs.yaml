@@ -33,18 +33,51 @@ edit_uri: ""
 
 nav:
   - Home: 'index.md'
+
+####################################################################################
+
   - Machine Learning:
     - Home: 'machine_learning/index.md'
+
+
+####################################################################################
+  
   - Deep Learning:
     - Home: 'deep_learning/index.md'
+  
+
+####################################################################################
+
+
   - Natural Language Processing:
     - Home: 'nlp/index.md'
+  
+
+####################################################################################  
+
   - Computer Vision:
     - Home: 'computer_vision/index.md'
+  
+
+####################################################################################
+
   - Data Engineering: 
     - Home: 'data_engineering/index.md'
+  
+
+####################################################################################
+  
   - Papers: 
     - Home: 'papers/index.md'
+    - Graph Neural Networks:
+      - 'papers/graph_conv_net/graph_conv_net.ipynb'
+
+####################################################################################
+
+  - Projects:
+    - Home: 'projects/index.md'
+    - NeuraNet: 'projects/neura_net/index.md'
+
 
 # extra:
 #   social:
