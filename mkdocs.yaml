@@ -72,6 +72,13 @@ nav:
     - Graph Neural Networks:
       - 'papers/graph_conv_net/graph_conv_net.ipynb'
 
+####################################################################################
+
+  - Projects:
+    - Home: 'projects/index.md'
+    - NeuraNet: 'projects/neura_net/index.md'
+
+
 # extra:
 #   social:
 #     - icon: fontawesome/brands/twitter
