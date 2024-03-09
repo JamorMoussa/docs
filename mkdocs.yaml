@@ -28,7 +28,6 @@ plugins:
     include_source: True
  - search
  - social
- - macros
 
 edit_uri: ""
 
