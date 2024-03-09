@@ -13,7 +13,7 @@ I'm **Moussa JAMOR**, a student in [<u>**Artificial Intelligence Engineering (2I
 
 ---
 
-**<u>Build a ChatBot Powered By ChatGpt :</u>** We have implemented ***Assistant.ma*** platform, enabling personalized chatbots using [**OpenAI API**](https://openai.com/blog/openai-api) and [**Langchain**](https://www.langchain.com/).
+**<u>Build a ChatBot Powered By ChatGPT :</u>** We have implemented ***Assistant.ma*** platform, enabling personalized chatbots using [**OpenAI API**](https://openai.com/blog/openai-api) and [**Langchain**](https://www.langchain.com/).
 
 We used the [**Django**](https://www.djangoproject.com/) framework to develop a full-stack website and my main tasks included server-side, API development, and chatbot customization for clients.
 
