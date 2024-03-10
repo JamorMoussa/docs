@@ -13,6 +13,7 @@ theme:
     - navigation.instant
     - navigation.top
     - navigation.tabs
+    # - toc.integrate
   palette:
     primary: black
 
@@ -32,7 +33,9 @@ plugins:
 edit_uri: ""
 
 nav:
-  - Home: 'index.md'
+  - Home: 
+    - Moussa Jamor: 'index.md'
+    - 'home/extra_activities.md'
 
 ####################################################################################
 
@@ -78,12 +81,13 @@ nav:
     - Home: 'projects/index.md'
     - NeuraNet: 'projects/neura_net/index.md'
 
+site_author: Moussa JAMOR
 
-# extra:
-#   social:
-#     - icon: fontawesome/brands/twitter
-#       link: https://twitter.com/mrdbourke
-#     - icon: fontawesome/brands/github
-#       link: https://github.com/mrdbourke/pytorch-deep-learning
-#     - icon: fontawesome/brands/youtube
-#       link: https://www.youtube.com/channel/UCr8O8l5cCX85Oem1d18EezQ
+extra:
+  social:
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/moussa-jamor-b17a58253/
+    - icon: fontawesome/brands/github
+      link: https://github.com/JamorMoussa/
+    # - icon: fontawesome/brands/youtube
+    #   link: https://www.youtube.com/channel/UCr8O8l5cCX85Oem1d18EezQ
