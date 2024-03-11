@@ -47,6 +47,10 @@ nav:
   
   - Deep Learning:
     - Home: 'deep_learning/index.md'
+    - Graph Neural Networks:
+      - Introduction: 'deep_learning/gnn/index.md'
+      - GCN:
+        - 'deep_learning/gnn/Introduction to Graph Neural Network with Pytorch.ipynb'
   
 
 ####################################################################################
