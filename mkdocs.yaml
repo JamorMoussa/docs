@@ -39,8 +39,8 @@ nav:
 
 ####################################################################################
 
-  - Machine Learning:
-    - Home: 'machine_learning/index.md'
+  # - Machine Learning:
+  #   - Home: 'machine_learning/index.md'
 
 
 ####################################################################################
@@ -56,20 +56,20 @@ nav:
 ####################################################################################
 
 
-  - Natural Language Processing:
-    - Home: 'nlp/index.md'
+  # - Natural Language Processing:
+  #   - Home: 'nlp/index.md'
   
 
 ####################################################################################  
 
-  - Computer Vision:
-    - Home: 'computer_vision/index.md'
+  # - Computer Vision:
+  #   - Home: 'computer_vision/index.md'
   
 
 ####################################################################################
 
-  - Data Engineering: 
-    - Home: 'data_engineering/index.md'
+  # - Data Engineering: 
+  #   - Home: 'data_engineering/index.md'
   
 
 ####################################################################################
@@ -78,6 +78,9 @@ nav:
     - Home: 'papers/index.md'
     - Graph Neural Networks:
       - 'papers/graph_conv_net/graph_conv_net.ipynb'
+    - Optimzation Methods:
+      - 'papers/opt_methods/index.md'
+      - 'papers/opt_methods/adadelta.ipynb'
 
 ####################################################################################
 
