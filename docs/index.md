@@ -1,15 +1,50 @@
+<!-- Header -->
+
+<style>
+
+.col {
+  float: left;
+  width: 20%;
+  height:100%;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.logo {
+    width:85%;
+}
+
+</style>
+
 # Moussa Jamor
 
 ---
 
-<center><img width="500px" src="/images/photo.jpeg"/></center>
+<center><img width="500px" src="https://media.licdn.com/dms/image/D4E03AQGtVN_ujmNuyQ/profile-displayphoto-shrink_800_800/0/1668285117805?e=1715212800&v=beta&t=CXTAOy2ZMl0MHi4r59OId0ZHxUWN27Bqi2XSIKb8V-Y"/></center>
 
 ## About 
+
+---
 I'm **Moussa JAMOR**, a student in [<u>**Artificial Intelligence Engineering (2IA) at ENSIAS**</u>](http://ensias.um5.ac.ma/page/ing%C3%A9nierie-int%C3%A9lligence-artificielle-2ia). I have a strong interest in **artificial intelligence**, **machine learning**, and **deep learning**. I am patient with new technologies and eager to explore innovative solutions in the field.
 
-## Experinces
 
-> ### [**Intership at ioSolutions SARL**](https://www.linkedin.com/company/iosolutions-sarl/)
+## Experiences
+
+---
+
+<div class="row">
+    <div class="col">
+        <center><img style="width:30%;" src="https://media.licdn.com/dms/image/C560BAQE_UirWZlH8_w/company-logo_200_200/0/1630629585061?e=1718236800&v=beta&t=sgo3QsO_ZpYy5nGp71JlZ6KuE3X-4iijemsgESvSnOo" /></center>
+    </div>
+    <div>
+        <a href="https://www.linkedin.com/company/iosolutions-sarl/"> <h2> Intership at IoSolutions SARL</h2></a>
+    </div>
+</div>
 
 ---
 
@@ -23,8 +58,29 @@ Our collaboration was facilitated through the use of the [**GitHub**](https://gi
 
 ## Academic
 
-## Skills 
+---
 
-## Extra-Curricular Activities
+<div class="row">
+    <div class="col">
+        <center><img class="logo" src="http://ensias.um5.ac.ma/sites/ensias.um5.ac.ma/files/logo5_0.jpg" /></center>
+    </div>
+    <div>
+        <a href="http://ensias.um5.ac.ma/"> <h3> National Higher School For Computer Science and Systems Analysis</h3></a>
+        <b>Diploma in Engineering,  Artificial Intelligence Engineering.</b>
+        <h5>2022 - 2025</h5>
+    </div>
+</div>
 
-## Contact
+--- 
+
+<div class="row">
+    <div class="col">
+        <center><img class="logo" src="https://scontent.fcmn5-1.fna.fbcdn.net/v/t39.30808-1/301000806_378566641133787_2498733225933146747_n.jpg?stp=cp0_dst-jpg_e15_p120x120_q65&_nc_cat=106&ccb=1-7&_nc_sid=5f2048&_nc_ohc=ohg6bjBjD88AX-Sl4Le&_nc_ht=scontent.fcmn5-1.fna&oh=00_AfCiK6G6dA29eqUvqGs1j5h3rfI1ceIFvZIdJpOfho2jTg&oe=65F1AF41" /></center>
+    </div>
+    <div>
+        <a href="http://ensias.um5.ac.ma/"> <h3>Faculty of Science and Technology, Errachidia.</h3></a>
+        <b>Diploma in Scientific and Technical University Studies (DEUST) Mathematics, Computer Science, and Physics.</b>
+        <h5>2020 - 2022</h5> 
+    </div>
+</div>
+
