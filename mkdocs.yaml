@@ -62,8 +62,10 @@ nav:
 
 ####################################################################################  
 
-  # - Computer Vision:
-  #   - Home: 'computer_vision/index.md'
+  - Computer Vision:
+    - Home: 'computer_vision/index.md'
+    - Classic Problems: 
+      - 'computer_vision/classic_problems/Classification_MNIST_With_Neural_Networks.ipynb'
   
 
 ####################################################################################
