@@ -62,7 +62,7 @@ Our collaboration was facilitated through the use of the [**GitHub**](https://gi
 
 <div class="row">
     <div class="col">
-        <center><img class="logo" src="http://ensias.um5.ac.ma/sites/ensias.um5.ac.ma/files/logo5_0.jpg" /></center>
+        <center><img class="logo" src="images/ensias.jpg" /></center>
     </div>
     <div>
         <a href="http://ensias.um5.ac.ma/"> <h3> National Higher School For Computer Science and Systems Analysis</h3></a>
@@ -75,10 +75,10 @@ Our collaboration was facilitated through the use of the [**GitHub**](https://gi
 
 <div class="row">
     <div class="col">
-        <center><img class="logo" src="https://scontent.fcmn5-1.fna.fbcdn.net/v/t39.30808-1/301000806_378566641133787_2498733225933146747_n.jpg?stp=cp0_dst-jpg_e15_p120x120_q65&_nc_cat=106&ccb=1-7&_nc_sid=5f2048&_nc_ohc=ohg6bjBjD88AX-Sl4Le&_nc_ht=scontent.fcmn5-1.fna&oh=00_AfCiK6G6dA29eqUvqGs1j5h3rfI1ceIFvZIdJpOfho2jTg&oe=65F1AF41" /></center>
+        <center><img class="logo" src="images/fste.jpeg" /></center>
     </div>
     <div>
-        <a href="http://ensias.um5.ac.ma/"> <h3>Faculty of Science and Technology, Errachidia.</h3></a>
+        <a href="https://www.fste-umi.ac.ma/"> <h3>Faculty of Science and Technology, Errachidia.</h3></a>
         <b>Diploma in Scientific and Technical University Studies (DEUST) Mathematics, Computer Science, and Physics.</b>
         <h5>2020 - 2022</h5> 
     </div>
