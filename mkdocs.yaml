@@ -23,6 +23,10 @@ markdown_extensions:
   - pymdownx.superfences
   - pymdownx.tasklist:
       custom_checkbox: true
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+
   
 plugins:
  - mkdocs-jupyter:
@@ -51,6 +55,14 @@ nav:
       - Introduction: 'deep_learning/gnn/index.md'
       - GCN:
         - 'deep_learning/gnn/Introduction to Graph Neural Network with Pytorch.ipynb'
+      
+    - AutoEncoders:
+      - 'deep_learning/auto_encoders/AutoEncoders-Architecture-In-DeepLearning.ipynb'
+
+    - Computer Vision:
+      - 'computer_vision/index.md'
+      - Classic Problems: 
+        - 'computer_vision/classic_problems/Classification_MNIST_With_Neural_Networks.ipynb'
   
 
 ####################################################################################
@@ -62,10 +74,7 @@ nav:
 
 ####################################################################################  
 
-  - Computer Vision:
-    - Home: 'computer_vision/index.md'
-    - Classic Problems: 
-      - 'computer_vision/classic_problems/Classification_MNIST_With_Neural_Networks.ipynb'
+
   
 
 ####################################################################################
