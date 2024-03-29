@@ -58,8 +58,8 @@ nav:
       - GCN:
         - 'deep_learning/gnn/Introduction to Graph Neural Network with Pytorch.ipynb'
 
-    - Deep Learning Specialization:
-      - deep_learning/dl_andrew_ng/seq_models/Seqeunce-Models-Specialization-with-Andrew-Ng.ipynb
+    - Sequence Models:
+      - deep_learning/seq_models/Seqeunce-Models-Specialization-with-Andrew-Ng.ipynb
     
     - AutoEncoders:
       - deep_learning/auto_encoders/AutoEncoders-Architecture-In-DeepLearning.ipynb
