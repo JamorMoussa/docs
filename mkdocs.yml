@@ -32,7 +32,7 @@ plugins:
  - mkdocs-jupyter:
     include_source: True
  - search
- - social
+ # - social
 
 edit_uri: ""
 
