@@ -32,7 +32,7 @@ plugins:
  - mkdocs-jupyter:
     include_source: True
  - search
- - social
+ # - social
 
 edit_uri: ""
 
@@ -71,9 +71,9 @@ nav:
   
 ####################################################################################
 
-  # - Large Language Models:
-  #   - Home: 'llms/index.md'
-  #   - 'llms/Build_GPT_From_Scratch.ipynb'
+  - Large Language Models:
+    - Home: 'llms/index.md'
+    - 'llms/Build_GPT_From_Scratch.ipynb'
 
 ####################################################################################
 
