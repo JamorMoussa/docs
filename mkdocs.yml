@@ -39,9 +39,12 @@ edit_uri: ""
 site_author: Moussa JAMOR
 
 nav:
-  - Home: 
-    - Moussa Jamor: 'index.md'
-    - 'home/extra_activities.md'
+  # - Home: 
+  #  - Moussa Jamor: 'index.md'
+  #  - 'home/extra_activities.md'
+
+  - Home:
+    - 'index.md'
 
 ####################################################################################
 
