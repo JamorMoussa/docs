@@ -69,6 +69,11 @@ nav:
       - Classic Problems: 
         - 'computer_vision/classic_problems/Classification_MNIST_With_Neural_Networks.ipynb'
   
+####################################################################################
+
+  # - Large Language Models:
+  #   - Home: 'llms/index.md'
+  #   - 'llms/Build_GPT_From_Scratch.ipynb'
 
 ####################################################################################
 
