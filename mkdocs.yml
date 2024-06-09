@@ -16,6 +16,15 @@ theme:
   palette:
     primary: black
 
+  font:
+      text: "Segoe UI"
+
+
+extra_css:
+  - css/extra.css
+
+
+
 markdown_extensions:
   - meta
   - pymdownx.highlight
@@ -75,8 +84,10 @@ nav:
 ####################################################################################
 
   - Large Language Models:
-    - Home: 'llms/index.md'
+    # - Home: 'llms/index.md'
+    - 'llms/Attention Is All You Need.ipynb'
     - 'llms/Build_GPT_From_Scratch.ipynb'
+  
 
 ####################################################################################
 
