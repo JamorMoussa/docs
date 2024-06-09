@@ -3,8 +3,8 @@ site_name: Zero to Mastery Learn Machine Learning and Deep Learning Concepts
 site_url: 
 site_description: Learn important machine learning concepts hands-on by writing PyTorch code.
 
-repo_url: https://github.com/JamorMoussa/ML-DL-Concepts
-repo_name: JamorMoussa/ML-DL-Concepts
+repo_url: https://github.com/JamorMoussa/docs
+repo_name: JamorMoussa/docs
 
 docs_dir: docs
 
@@ -21,7 +21,7 @@ theme:
 
 
 extra_css:
-  - css/extra.css
+ - css/extra.css
 
 
 
@@ -41,25 +41,15 @@ plugins:
  - mkdocs-jupyter:
     include_source: True
  - search
- # - social
 
 edit_uri: ""
 
 site_author: Moussa JAMOR
 
 nav:
-  # - Home: 
-  #  - Moussa Jamor: 'index.md'
-  #  - 'home/extra_activities.md'
 
   - Home:
     - 'index.md'
-
-####################################################################################
-
-  # - Machine Learning:
-  #   - Home: 'machine_learning/index.md'
-
 
 ####################################################################################
   
@@ -84,27 +74,9 @@ nav:
 ####################################################################################
 
   - Large Language Models:
-    # - Home: 'llms/index.md'
     - 'llms/Attention Is All You Need.ipynb'
     - 'llms/Build_GPT_From_Scratch.ipynb'
-  
-
-####################################################################################
-
-
-  # - Natural Language Processing:
-  #   - Home: 'nlp/index.md'
-  
-
-####################################################################################  
-
-
-  
-
-####################################################################################
-
-  # - Data Engineering: 
-  #   - Home: 'data_engineering/index.md'
+    - 'llms/test.ipynb'
   
 
 ####################################################################################
@@ -117,15 +89,9 @@ nav:
       - 'papers/opt_methods/index.md'
       - 'papers/opt_methods/adadelta.ipynb'
 
-####################################################################################
-
-  - Projects:
-    - Home: 'projects/index.md'
-    - NeuraNet: 'projects/neura_net/index.md'
 
 
 extra_javascript:
-  - javascripts/mathjax.js
   - https://polyfill.io/v3/polyfill.min.js?features=es6
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
 
@@ -136,7 +102,5 @@ extra:
       link: https://www.linkedin.com/in/moussa-jamor-b17a58253/
     - icon: fontawesome/brands/github
       link: https://github.com/JamorMoussa/
-    # - icon: fontawesome/brands/youtube
-    #   link: https://www.youtube.com/channel/UCr8O8l5cCX85Oem1d18EezQ
 
 
