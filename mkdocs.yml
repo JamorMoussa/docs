@@ -55,28 +55,19 @@ nav:
   
   - Deep Learning:
     - Home: 'deep_learning/index.md'
-    - Graph Neural Networks:
-      - Introduction: 'deep_learning/gnn/index.md'
-      - GCN:
-        - 'deep_learning/gnn/Introduction to Graph Neural Network with Pytorch.ipynb'
-
+    
     - Sequence Models:
       - deep_learning/seq_models/Seqeunce-Models-Specialization-with-Andrew-Ng.ipynb
     
     - AutoEncoders:
       - deep_learning/auto_encoders/AutoEncoders-Architecture-In-DeepLearning.ipynb
 
-    - Computer Vision:
-      - 'computer_vision/index.md'
-      - Classic Problems: 
-        - 'computer_vision/classic_problems/Classification_MNIST_With_Neural_Networks.ipynb'
   
 ####################################################################################
 
   - Large Language Models:
-    - 'llms/Attention Is All You Need.ipynb'
-    - 'llms/Build_GPT_From_Scratch.ipynb'
-    - 'llms/test.ipynb'
+    - 'llms/attention-is-all-you-need.ipynb'
+    - 'llms/rag-pytorch-from-scratch.ipynb'
   
 
 ####################################################################################
